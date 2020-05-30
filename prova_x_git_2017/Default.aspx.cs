@@ -11,7 +11,8 @@ namespace prova_x_git_2017
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            //questa è una prova
+            Response.Write("pippo non lo sa");
         }
     }
 }
